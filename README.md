@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enrique0x
-- 👀 I’m interested in cryptro, gaming, and technology
+- 👀 I’m interested in cryptro, finance, and gaming
 - 🌱 I’m currently learning JavaScript
 - ⚡ Fun fact: I've wanted to learn code for a long time but I am finally taking it serious 
 
